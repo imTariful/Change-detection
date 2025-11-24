@@ -1,0 +1,16 @@
+{
+  "before": "input-images\\17.jpg",
+  "after": "input-images\\17~2.jpg",
+  "aligned": true,
+  "num_changes": 1,
+  "changes": [
+    {
+      "x": 681,
+      "y": 145,
+      "w": 59,
+      "h": 52,
+      "area": 1019.5
+    }
+  ],
+  "timestamp": "2025-11-23T19:10:47.050074Z"
+}
